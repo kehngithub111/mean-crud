@@ -17,7 +17,7 @@ app.use(routes);
 
 const mongoDB = async () => {
   await mongoose.connect(
-    "mongodb+srv://kehnbenliro1001:GwapoKehn%40123@mean-crud.wnkkd80.mongodb.net/mean-crud"
+    "mongodb+srv://ralphkennethbenliro:benliro2002@ralphk.85lloys.mongodb.net/crud"
   );
 };
 
